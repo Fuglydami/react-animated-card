@@ -1,1 +1,0 @@
-# react-animated-card
